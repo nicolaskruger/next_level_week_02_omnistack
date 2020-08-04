@@ -5,3 +5,5 @@ React Native para aplicações em android e ios
 React TV para televisões
 type script adiciona tipagem no codigo
 min 32
+
+npx create-react-app web --template typescript #cria o projeto
